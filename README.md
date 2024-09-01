@@ -1,13 +1,13 @@
 # OCRTranslate
 
-##Instalación
+## Instalación
 
 Para la instalación de los paquetes necesarios, únicamente hay que hacer 
 ````
 pip install -r requirements.txt
 ````
 
-##Uso
+## Uso
 
 Variables de entrada:
 
