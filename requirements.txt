@@ -1,0 +1,9 @@
+pdf2image
+pytesseract
+opencv-python
+transformers
+torch
+language-tool-python
+fpdf2
+sentencepiece
+sacremoses
